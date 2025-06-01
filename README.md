@@ -8,7 +8,7 @@ Welcome to our **Big Project** where we develop a bot to dominate the **Diamonds
 ### 2. Meet the Dream Team 💡
 - **[Muhammad Royhan Alfitra / 123140146/ SmollJesteR]**  
 - **[Dzaky Pramadhani / 123140208/ WillJe65]**  
-- **[Member 3]**  
+- **[Silvia / 123140133/ Silvia-vyA]**  
 
 ### 3. Game Components 🕹️
 The **Diamonds** game consists of:
@@ -58,7 +58,7 @@ We're still in the early stages, tweaking strategies, refining our bot, and gett
 ---
 
 ### 8. Algorithm Strategy Major Project Document
-📄 [Lihat Laporan PDF](./https://github.com/Silvia-vyA/StimaBOT/blob/main/Kelompok%2014(Laba-laba%20Ngawi).pdfpdf)
+📄 [Lihat Laporan PDF](https://github.com/Silvia-vyA/StimaBOT/blob/main/Kelompok%2014(Laba-laba%20Ngawi).pdf)
 
 
 ### 8. References 📚
